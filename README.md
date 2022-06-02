@@ -1,8 +1,8 @@
 <h1 align = "center"> Repositório de estudos e projetos de Stallone L. de Souza </h1>
 
 <div style="display: inline_block" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
 </div>
 
 <div height="1em"></div> 
