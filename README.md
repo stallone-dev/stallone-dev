@@ -1,14 +1,18 @@
 ## Repositório publico de estudos e projetos de Stallone L. de Souza
 ### Status
 
-<div align="center">
-  <a href="https://github.com/stallone-dev">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=codeSTACKr&hide_title=true&include_all_commits=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=codeSTACKr"/>
-</div>
 
+
+[![Status de Stallone L.S](https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=codeSTACKr&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Stallone-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Stallone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Stallone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Stallone-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Stallone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Stallone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
