@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/stallone-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=codeSTACKr&hide_title=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=codeSTACKr"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=codeSTACKr&hide_title=true&include_all_commits=true"/>
+  <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=codeSTACKr"/>
 </div>
 
 
