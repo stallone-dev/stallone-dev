@@ -1,8 +1,12 @@
 <h1 align = "center"> Repositório de estudos e projetos de Stallone L. de Souza </h1>
 
 <div align="center">
+    <a href="https://github.com/stallone-dev/Estudos">
     <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
+    </a>
+    <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
     <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
+    </a>
 </div>
 
 <div style="display: inline_block" align="center">
