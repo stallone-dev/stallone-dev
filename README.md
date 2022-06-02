@@ -3,7 +3,7 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=darcula&hide_title=true&include_all_commits=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=darcula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=darcula&hide_title=true"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
