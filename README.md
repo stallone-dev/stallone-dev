@@ -1,8 +1,14 @@
 <h1 align = "center"> Repositório de estudos e projetos de Stallone L. de Souza </h1>
 
 <div style="display: inline_block" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
+</div>
+
+##   
+
+<div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stallone-dev&hide=prs,issues&show_icons=true&theme=darcula&hide_title=true&include_all_commits=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=darcula&hide_title=true"/>
 </div>
 
@@ -16,9 +22,6 @@
     <a href="https://www.linkedin.com/in/stallone-l-de-souza/" target="_blank">
     <img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
- 
  
 
 <!--
