@@ -1,4 +1,4 @@
-<h1 align = "center"> Repositório de estudos e projetos de Stallone L. de Souza </h1>
+<h1 align = "center"> Central de estudos e projetos de Stallone L. de Souza </h1>
 
 <div align="center">
     <a href="https://github.com/stallone-dev/Estudos">
