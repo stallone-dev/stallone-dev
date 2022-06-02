@@ -2,16 +2,16 @@
 
 <div align="center">
     <a href="https://github.com/stallone-dev/Estudos">
-    <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
+    <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=buefy&repo=Estudos"/>
     </a>
     <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
-    <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
+    <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=buefy&repo=exercicios_portugol_2022"/>
     </a>
 </div>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=gruvbox_light&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=buefy&hide_title=true"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
