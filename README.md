@@ -1,4 +1,4 @@
-## Repositório publico de estudos e projetos de Stallone L. de Souza
+## Repositório de estudos e projetos de Stallone L. de Souza
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
@@ -11,6 +11,15 @@
   <img align="center" alt="Stallone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Stallone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div style="display: inline_block" align="center"><br>
+    <a href="https://www.linkedin.com/in/stallone-l-de-souza/" target="_blank">
+    <img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
+ 
+ 
 
 <!--
 **stallone-dev/stallone-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
