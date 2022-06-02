@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-    <img alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
-    <img alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
+    <img height="180em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=Estudos"/>
+    <img height="180em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=gruvbox_light&repo=exercicios_portugol_2022"/>
 </div>
 
 <div height="1em"></div> 
