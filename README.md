@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/stallone-dev/Estudos">
-    <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=buefy&repo=Estudos"/>
+    <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=codeSTACKr&repo=Estudos"/>
     </a>
     <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
     <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=codeSTACKr&repo=exercicios_portugol_2022"/>
