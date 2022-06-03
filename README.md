@@ -5,13 +5,13 @@
     <img height="130em" alt="Repositório de Estudos - Stallone" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=buefy&repo=Estudos"/>
     </a>
     <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
-    <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=buefy&repo=exercicios_portugol_2022"/>
+    <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=codeSTACKr&repo=exercicios_portugol_2022"/>
     </a>
 </div>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=buefy&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=codeSTACKr&hide_title=true"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -22,7 +22,7 @@
 
 <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/stallone-l-de-souza/" target="_blank">
-    <img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=codeSTACKr&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
 
