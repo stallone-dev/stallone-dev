@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/stallone-dev/study-central">
-    <img height="130em" alt="Repositório central de estudos" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=Estudos"/>
+    <img height="130em" alt="Repositório central de estudos" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=study-central"/>
     </a>
     <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
     <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=exercicios_portugol_2022"/>
