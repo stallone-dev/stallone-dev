@@ -1,5 +1,6 @@
-<h1 align = "center"> Central de estudos e projetos de Stallone L. de Souza </h1>
+<h1 align = "center">Study central of Stallone L. de Souza</h1>
 
+<!--
 <div align="center">
     <a href="https://github.com/stallone-dev/study-central">
     <img height="130em" alt="Repositório central de estudos" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=study-central"/>
@@ -8,6 +9,7 @@
     <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=exercicios_portugol_2022"/>
     </a>
 </div>
+-->
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/stallone-dev">
