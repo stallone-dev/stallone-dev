@@ -1,44 +1,121 @@
-<h1 align = "center">Study central of Stallone L. de Souza</h1>
+<header>
 
-<!--
-<div align="center">
-    <a href="https://github.com/stallone-dev/study-central">
-    <img height="130em" alt="Repositório central de estudos" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=study-central"/>
-    </a>
-    <a href="https://github.com/stallone-dev/exercicios_portugol_2022">
-    <img height="130em" alt="Repositório de exercícios em Portugol" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&theme=github_dark&icon_color=ff652f&repo=exercicios_portugol_2022"/>
-    </a>
-</div>
+# Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
+
+*Brazilian Software Enginnering student at [UNCSUL](https://www.cruzeirodosulvirtual.com.br/).*
+
+<a href="https://linkedin.com/in/stallone-dev">
+  <img align="left" alt="Stallone's LinkedIn" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/stallone-dev">
+  <img align="left" alt="Stallone's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<!-- In progress
+<a href="https://instagram.com/stallone.ls">
+  <img align="left" alt="Stallone's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 -->
 
-<div style="display: inline_block" align="center">
+<br/>
+
+</header>
+
+
+<main style="display: inline_block">
+
+## About me...
+
+```typescript
+const stallone_dev = {
+    pronouns: "He" | "Him";
+    codeStack: ["JavaScript", "TypeScript", "Rust"];
+
+    technologies: {
+        frontEnd: {
+            js_ts: ["React"],
+            css: ["...learning_2024"]
+        },
+        backEnd: {
+            js_ts: ["deno", "node", "express"],
+            rust: ["...learning_2024"]
+        },
+        databases: ["SQLite", "MySql", "MongoDB"],
+        devOps: ["Docker"]
+    };
+
+    experiences: { 
+        admAsssistant: ["3 years"],
+        admLogisticsAssistant: ["2 years"],
+        universityExtension: ["1 year"]
+    };
+    
+    personalLearningProject: "Explore the world of edge computing on DenoJS";
+}
+```
+🚩 How about taking a look at my certificates?
+
+*[See my certificates repository](https://github.com/stallone-dev/certificates)*
+
+## Technologies and Tools
+
   <a href="https://github.com/stallone-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&layout=compact&theme=github_dark&icon_color=ff652f&hide_title=true"/>
-</div>
+    <img width="50%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
+  </a>
+  
+  <!-- 
+  Your languages and tools. Be careful with the alignment. 
+  https://www.vectorlogo.zone
+  -->
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+  <br />
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Stallone-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Stallone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Stallone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
 
-<div style="display: inline_block" align="center"><br>
-    <a href="https://www.linkedin.com/in/stallone-l-de-souza/" target="_blank">
-    <img  align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
- 
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <br />
+  
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
-<!--
-**stallone-dev/stallone-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning:
 
-Here are some ideas to get you started:
+<a href="https://github.com/stallone-dev/docker-studies">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
+</a>
+<a href="https://github.com/stallone-dev/docker-studies">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</main>
+
+<footer align="center">
+
+### Rearch me at:
+
+<a href="mailto:stallone.job@gmail.com
+?subject=[GITHUB] Contacte me 
+&cc=stallone.developer@gmail.com
+">
+<img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
+</a>
+<a href="https://linkedin.com/in/stallone-dev">
+<img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+</a>
+<a href="">
+<img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+</a>
+
+<p align="center"> 
+  <em>Visitor counter</em><br>
+  <img src="https://profile-counter.glitch.me/stallone-dev/count.svg" />
+</p>
+
+</footer>
