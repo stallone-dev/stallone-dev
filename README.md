@@ -13,8 +13,8 @@
 
 ```typescript
 const stallone_dev = {
-    pronouns: "He" | "Him";
-    codeStack: ["JavaScript", "TypeScript", "Rust"];
+    pronouns: "He" | "Him",
+    codeStack: ["JavaScript", "TypeScript", "Rust"],
 
     technologies: {
         frontEnd: {
@@ -27,15 +27,15 @@ const stallone_dev = {
         },
         databases: ["SQLite", "MySql", "MongoDB"],
         devOps: ["Docker", "Linux", "Git"]
-    };
+    },
 
     experiences: { 
         admAssistant: ["3 years"],
         admLogisticsAssistant: ["2 years"],
         universityExtension: ["1 year"]
-    };
+    },
     
-    personalLearningProject: "Explore the world of edge computing on DenoJS";
+    personalLearningProject: "Explore the world of edge computing on DenoJS"
 }
 ```
 
@@ -91,7 +91,7 @@ const stallone_dev = {
 " target="_blank">
 <img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
 </a>
-<a href="https://linkedin.com/in/stallone-dev" target="_blank">
+<a href="https://www.linkedin.com/in/stallone-souza/" target="_blank">
 <img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
 </a>
 <a href="https://github.com/stallone-dev/" target="_blank">
