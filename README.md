@@ -2,28 +2,14 @@
 
 # Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
 
-*Brazilian Software Enginnering student at [UNCSUL](https://www.cruzeirodosulvirtual.com.br/).*
-
-<a href="https://linkedin.com/in/stallone-dev">
-  <img align="left" alt="Stallone's LinkedIn" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/stallone-dev">
-  <img align="left" alt="Stallone's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<!-- In progress
-<a href="https://instagram.com/stallone.ls">
-  <img align="left" alt="Stallone's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
--->
-
-<br/>
+*A brazilian Software Enginnering student at <a href="https://www.cruzeirodosulvirtual.com.br/" target="_blank">UNICSUL</a>.*
 
 </header>
 
 
 <main style="display: inline_block">
 
-## About me...
+## A snippet about me...
 
 ```typescript
 const stallone_dev = {
@@ -40,11 +26,11 @@ const stallone_dev = {
             rust: ["...learning_2024"]
         },
         databases: ["SQLite", "MySql", "MongoDB"],
-        devOps: ["Docker"]
+        devOps: ["Docker", "Linux", "Git"]
     };
 
     experiences: { 
-        admAsssistant: ["3 years"],
+        admAssistant: ["3 years"],
         admLogisticsAssistant: ["2 years"],
         universityExtension: ["1 year"]
     };
@@ -52,13 +38,12 @@ const stallone_dev = {
     personalLearningProject: "Explore the world of edge computing on DenoJS";
 }
 ```
-🚩 How about taking a look at my certificates?
 
-*[See my certificates repository](https://github.com/stallone-dev/certificates)*
+*<a href="https://github.com/stallone-dev/certificates" target="_blank">🚩 See my certificates</a>*
 
 ## Technologies and Tools
 
-  <a href="https://github.com/stallone-dev">
+  <a href="https://github.com/stallone-dev" target="_self">
     <img width="50%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
   </a>
   
@@ -66,31 +51,31 @@ const stallone_dev = {
   Your languages and tools. Be careful with the alignment. 
   https://www.vectorlogo.zone
   -->
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+  <code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+  <code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
   <br />
 
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+  <code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
   <br />
 
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+  <code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
   <br />
   
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><a href="https://github.com/features/copilot" alt="GitHub Copilot hiperlink" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"></a></code>
+  <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+  <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
 ## Currently learning:
 
-<a href="https://github.com/stallone-dev/docker-studies">
+<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
 </a>
-<a href="https://github.com/stallone-dev/docker-studies">
+<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
 </a>
 
@@ -103,13 +88,13 @@ const stallone_dev = {
 <a href="mailto:stallone.job@gmail.com
 ?subject=[GITHUB] Contacte me 
 &cc=stallone.developer@gmail.com
-">
+" target="_blank">
 <img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
 </a>
-<a href="https://linkedin.com/in/stallone-dev">
+<a href="https://linkedin.com/in/stallone-dev" target="_blank">
 <img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
 </a>
-<a href="">
+<a href="https://github.com/stallone-dev/" target="_blank">
 <img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 </a>
 
