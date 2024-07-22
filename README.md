@@ -19,8 +19,6 @@
 
 <main>
 
-
-
 ## A snippet about me...
 
 ```typescript
@@ -42,16 +40,14 @@ const stallone_dev = {
     },
 
     experiences: { 
-        admAssistant: ["3 years"],
-        admLogisticsAssistant: ["2 years"],
-        universityExtension: ["1 year"]
+        admAssistant: "3 years",
+        admLogisticsAssistant: "2 years",
+        universityExtension: "1 year"
     },
     
     personalLearningProject: "Explore the world of edge computing on DenoJS"
 }
 ```
-
-*<a href="https://github.com/stallone-dev/certificates" target="_blank">🚩 See my certificates</a>*
 
 ## Technologies and Tools
 
@@ -82,10 +78,26 @@ const stallone_dev = {
   <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
   <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
+<p align="center">
+  <a href="https://github.com/stallone-dev/certificates">
+    <img alt="Static Badge" align="center" width="25%"src="https://img.shields.io/badge/certificates-100000?style=for-the-badge&logo=gitbook&logoColor=white">
+  </a>
+</p>
+
+## Currently learning:
+
+<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
+</a>
+<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
+</a>
+
 </main>
 
 <footer align="center">
 
+<br/>
 <p align="center"> 
   <em>Visitor counter</em><br>
   <img src="https://profile-counter.glitch.me/stallone-dev/count.svg" />
