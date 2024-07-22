@@ -90,14 +90,14 @@ const stallone_dev = {
 
 ## Currently learning:
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
+    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
   </a>
   <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
+    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
   </a>
-</section>
+</div>
 
 </main>
 
