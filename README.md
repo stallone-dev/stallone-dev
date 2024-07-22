@@ -1,7 +1,7 @@
 <header>
 
 <a href="https://github.com/stallone-dev" target="_self">
-  <img width="30%" align="right" alt="SVG of a developer programming in front of 3 monitors" src="https://raw.githubusercontent.com/stallone-dev/certificates/master/assets/profile_icon.svg?sanitize=true" />
+  <img height="380" align="right" alt="SVG of a developer programming in front of 3 monitors" src="https://raw.githubusercontent.com/stallone-dev/certificates/master/assets/profile_icon.svg?sanitize=true" />
 </a>
 
 
