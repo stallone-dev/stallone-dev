@@ -1,19 +1,33 @@
 <header>
 
-<a href="https://github.com/stallone-dev" target="_self">
-  <img width="40%" align="right" alt="SVG of a developer programming in front of 3 monitors" src="https://raw.githubusercontent.com/stallone-dev/certificates/master/assets/profile_icon.svg?sanitize=true" />
-</a>
+<h1> Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!</h1>
+<img align='right' alt="SVG of a developer programming in front of 3 monitors" src="https://github.com/stallone-dev/certificates/blob/master/assets/profile_icon.png" width="230">
 
-
-# Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
-
-*A brazilian Software Enginnering student at <a href="https://www.cruzeirodosulvirtual.com.br/" target="_blank">UNICSUL</a>.*
+<p>
+  <em>Student of Software Enginner at <a href="https://www.cruzeirodosulvirtual.com.br/">UNICSUL</a> </br>
+  Logistics administrative assistant at <a href="https://www.linkedin.com/company/atrsresiduos/mycompany/">ATR Soluções em Resíduos LTDA</a>
+  </em>
+  <a href="mailto:stallone.job@gmail.com
+  ?subject=[GITHUB] Contacte me 
+  &cc=stallone.developer@gmail.com
+  " target="_blank">
+  <img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/stallone-souza/" target="_blank">
+  <img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+  </a>
+  <a href="https://github.com/stallone-dev/" target="_blank">
+  <img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+  </a>
+</p>
 
 </header>
 
 <br/>
 
-<main style="display: inline_block">
+<main>
+
+
 
 ## A snippet about me...
 
@@ -76,33 +90,9 @@ const stallone_dev = {
   <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
   <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
-## Currently learning:
-
-<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
-</a>
-<a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
-</a>
-
 </main>
 
 <footer align="center">
-
-### Rearch me at:
-
-<a href="mailto:stallone.job@gmail.com
-?subject=[GITHUB] Contacte me 
-&cc=stallone.developer@gmail.com
-" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
-</a>
-<a href="https://www.linkedin.com/in/stallone-souza/" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
-</a>
-<a href="https://github.com/stallone-dev/" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-</a>
 
 <p align="center"> 
   <em>Visitor counter</em><br>
