@@ -80,7 +80,7 @@ const stallone_dev = {
 
 <p align="center">
   <a href="https://github.com/stallone-dev/certificates">
-    <img alt="Static Badge" align="center" width="25%"src="https://img.shields.io/badge/certificates-100000?style=for-the-badge&logo=gitbook&logoColor=white">
+    <img alt="Static Badge" align="center" width="20%"src="https://img.shields.io/badge/certificates-100000?style=for-the-badge&logo=gitbook&logoColor=white">
   </a>
 </p>
 
@@ -98,6 +98,8 @@ const stallone_dev = {
 <footer align="center">
 
 <br/>
+<br/>
+
 <p align="center"> 
   <em>Visitor counter</em><br>
   <img src="https://profile-counter.glitch.me/stallone-dev/count.svg" />
