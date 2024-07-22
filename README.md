@@ -51,7 +51,7 @@ const stallone_dev = {
 
 ## Technologies and Tools
 
-<section align="center">
+<div align="center">
 
 <a href="https://github.com/stallone-dev" target="_self">
   <img width="55%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
@@ -80,7 +80,7 @@ const stallone_dev = {
   <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
   <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
-</section>
+</div>
 
 <p align="center">
   <a href="https://github.com/stallone-dev/certificates">
@@ -90,7 +90,7 @@ const stallone_dev = {
 
 ## Currently learning:
 
-<section align="center">
+<div align="center">
   <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
   </a>
@@ -101,7 +101,7 @@ const stallone_dev = {
 
 </main>
 
-<footer align="center">
+<div align="center">
 
 <br/>
 <br/>
