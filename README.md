@@ -1,15 +1,17 @@
-<header align="center">
-
-# Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
-
-*A brazilian Software Enginnering student at <a href="https://www.cruzeirodosulvirtual.com.br/" target="_blank">UNICSUL</a>.*
+<header>
 
 <a href="https://github.com/stallone-dev" target="_self">
   <img width="30%" align="right" alt="SVG of a developer programming in front of 3 monitors" src="https://raw.githubusercontent.com/stallone-dev/certificates/master/assets/profile_icon.svg?sanitize=true" />
 </a>
 
+
+# Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
+
+*A brazilian Software Enginnering student at <a href="https://www.cruzeirodosulvirtual.com.br/" target="_blank">UNICSUL</a>.*
+
 </header>
 
+<br/>
 
 <main style="display: inline_block">
 
