@@ -9,18 +9,9 @@
   </em>
 </p>
 
-<a href="mailto:stallone.job@gmail.com
-?subject=[GITHUB] Contacte me 
-&cc=stallone.developer@gmail.com
-" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
-</a>
-<a href="https://www.linkedin.com/in/stallone-souza/" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
-</a>
-<a href="https://github.com/stallone-dev/" target="_blank">
-<img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stallone-souza/)
+[![Gmail](https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:stallone.job@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stallone-dev)
 
 </header>
 
