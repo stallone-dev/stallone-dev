@@ -1,8 +1,12 @@
-<header>
+<header align="center">
 
 # Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Stallone L. de Souza!
 
 *A brazilian Software Enginnering student at <a href="https://www.cruzeirodosulvirtual.com.br/" target="_blank">UNICSUL</a>.*
+
+<a href="https://github.com/stallone-dev" target="_self">
+  <img width="30%" align="right" alt="SVG of a developer programming in front of 3 monitors" src="https://raw.githubusercontent.com/stallone-dev/certificates/master/assets/profile_icon.svg?sanitize=true" />
+</a>
 
 </header>
 
@@ -43,9 +47,9 @@ const stallone_dev = {
 
 ## Technologies and Tools
 
-  <a href="https://github.com/stallone-dev" target="_self">
-    <img width="50%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
-  </a>
+<a href="https://github.com/stallone-dev" target="_self">
+  <img width="50%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
+</a>
   
   <!-- 
   Your languages and tools. Be careful with the alignment. 
