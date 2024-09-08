@@ -22,9 +22,9 @@
 ## A snippet about me...
 
 ```typescript
-const stallone_dev = {
+const stallone_dev:developer = {
     pronouns: "He" | "Him",
-    codeStack: ["JavaScript", "TypeScript", "Rust"],
+    codeStack: ["JavaScript", "TypeScript", "Php"],
 
     technologies: {
         frontEnd: {
@@ -33,8 +33,10 @@ const stallone_dev = {
         },
         backEnd: {
             js_ts: ["deno", "node", "express"],
-            rust: ["...learning_2024"]
         },
+        fullStack: {
+            php: ["laravel"],          
+        }
         databases: ["SQLite", "MySql", "MongoDB"],
         devOps: ["Docker", "Linux", "Git"]
     },
@@ -94,8 +96,8 @@ const stallone_dev = {
   <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
     <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
   </a>
-  <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=rust-studies" />
+  <a href="https://github.com/stallone-dev/laravel-studies" target="_blank">
+    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=laravel-studies" />
   </a>
 </div>
 
