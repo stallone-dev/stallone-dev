@@ -24,30 +24,30 @@
 ```typescript
 const stallone_dev:developer = {
     pronouns: "He" | "Him",
-    codeStack: ["JavaScript", "TypeScript", "Php"],
+    codeStack: ["JavaScript", "TypeScript"],
 
     technologies: {
         frontEnd: {
             js_ts: ["React"],
-            css: ["...learning_2024"]
+            css: ["...learning_set_2024"]
         },
         backEnd: {
             js_ts: ["deno", "node", "express"],
         },
         fullStack: {
-            php: ["laravel"],          
+            web: ["react"],
         }
         databases: ["SQLite", "MySql", "MongoDB"],
         devOps: ["Docker", "Linux", "Git"]
     },
 
-    experiences: { 
+    experiences: {
         admAssistant: "3 years",
         admLogisticsAssistant: "2 years",
         universityExtension: "1 year"
     },
-    
-    personalLearningProject: "Explore the world of edge computing on DenoJS"
+
+    personalLearningProject: "Explore the world of edge computing"
 }
 ```
 
@@ -58,29 +58,30 @@ const stallone_dev:developer = {
 <a href="https://github.com/stallone-dev" target="_self">
   <img width="55%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
 </a>
-  
-  <!-- 
-  Your languages and tools. Be careful with the alignment. 
+
+  <!--
+  Your languages and tools. Be careful with the alignment.
   https://www.vectorlogo.zone
   -->
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-  <code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
-  <code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
-  <br />
 
-  <code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-  <code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-  <br />
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code><br />
+  <!--<code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a>/
+</code>-->
 
-  <code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-  <code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-  <code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-  <br />
-  
-  <code><a href="https://github.com/features/copilot" alt="GitHub Copilot hiperlink" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"></a></code>
-  <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-  <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<br />
+
+<code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<br />
+
+<code><a href="https://github.com/features/copilot" alt="GitHub Copilot hiperlink" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 
 </div>
 
@@ -96,8 +97,8 @@ const stallone_dev:developer = {
   <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
     <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
   </a>
-  <a href="https://github.com/stallone-dev/laravel-studies" target="_blank">
-    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=laravel-studies" />
+  <a href="https://github.com/stallone-dev/html5-css3-studies" target="_blank">
+    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=html5-css3-studies" />
   </a>
 </div>
 
@@ -108,7 +109,7 @@ const stallone_dev:developer = {
 <br/>
 <br/>
 
-<p align="center"> 
+<p align="center">
   <em>Visitor counter</em><br>
   <img src="https://profile-counter.glitch.me/stallone-dev/count.svg" />
 </p>
