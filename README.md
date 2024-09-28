@@ -36,7 +36,7 @@ const stallone_dev:developer = {
         },
         fullStack: {
             web: ["react"],
-        }
+        },
         databases: ["SQLite", "MySql", "MongoDB"],
         devOps: ["Docker", "Linux", "Git"]
     },
