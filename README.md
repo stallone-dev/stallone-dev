@@ -27,18 +27,17 @@ const stallone_dev:developer = {
     codeStack: ["JavaScript", "TypeScript"],
 
     technologies: {
+        fullStack: {
+            web: ["React", "HTMX"]
+        },
         frontEnd: {
-            js_ts: ["React"],
-            css: ["...learning_set_2024"]
+            styles: ["pico.css"]
         },
         backEnd: {
-            js_ts: ["deno", "node", "express"],
+            js_ts: ["deno", "node", "express"]
         },
-        fullStack: {
-            web: ["react"],
-        },
-        databases: ["SQLite", "MySql", "MongoDB"],
-        devOps: ["Docker", "Linux", "Git"]
+        databases: ["Deno KV", "SQLite", "MySql", "MongoDB"],
+        devOps: ["GitHub Actions", "Docker", "Linux", "Git"]
     },
 
     experiences: {
