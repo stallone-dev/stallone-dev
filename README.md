@@ -26,11 +26,20 @@
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg"></a></code><code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"></a></code><code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21~bgwhite.svg"></a></code><code><a href="https://dart.dev/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg"></a></code><code><a href="https://www.python.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></a></code>
 <br/>
-<code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"></a></code><code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></a></code><code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg"></a></code><code><a href="https://www.postman.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg"></a>
+<code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"></a></code><code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></a></code><code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg"></a></code><code><a href="https://www.postman.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg"></a></code>
 <br/>
 <code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></a></code><code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></a></code><code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg"></a></code>
 <br/>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
+<code>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg">
+  </a>
+</code>
+<code>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg">
+  </a>
+</code>
 <br/>
 
 <code>
@@ -43,8 +52,12 @@
 
 ## My favorite Pins
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917)](https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917)[![MTR-web-service-types](https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types)](https://github.com/stallone-dev/MTR-web-service-types)
-
+<a href="https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917" />
+</a>
+<a href="https://github.com/stallone-dev/MTR-web-service-types">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types" />
+</a>
 
 ## My flow
 
