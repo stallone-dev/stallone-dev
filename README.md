@@ -33,11 +33,9 @@
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
 <br/>
 
-<code>
   <a href="https://github.com/stallone-dev/certificates">
     <img alt="Static Badge" align="center" width="20%"src="https://img.shields.io/badge/certificates-100000?style=for-the-badge&logo=gitbook&logoColor=white">
   </a>
-</code>
 
 </div>
 
