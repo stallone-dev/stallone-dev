@@ -44,16 +44,7 @@
 
 <div align="center">
 
-<p align="center">
-<a href="https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/stallone-dev/MTR-web-service-types">
-  <img height=150 widht=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types" />
-</a>
-</p>
+<p align="center"><a href="https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917" /></a></p><p align="center"><a href="https://github.com/stallone-dev/MTR-web-service-types"><img height=150 widht=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types" /></a></p>
 
 </div>
 
