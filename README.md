@@ -30,16 +30,7 @@
 <br/>
 <code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></a></code><code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></a></code><code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg"></a></code>
 <br/>
-<code>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg">
-  </a>
-</code>
-<code>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg">
-  </a>
-</code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
 <br/>
 
 <code>
@@ -52,12 +43,10 @@
 
 ## My favorite Pins
 
-<a href="https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917" />
-</a>
-<a href="https://github.com/stallone-dev/MTR-web-service-types">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types" />
-</a>
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917)](https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917)
+
+[![MTR-web-service-types](https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types)](https://github.com/stallone-dev/MTR-web-service-types)
+
 
 ## My flow
 
