@@ -5,7 +5,8 @@
 
 <p>
   <em>Student of Software Enginner at <a href="https://www.cruzeirodosulvirtual.com.br/">UNICSUL</a> </br>
-  Logistics administrative assistant at <a href="https://www.linkedin.com/company/atrsresiduos/mycompany/">ATR Soluções em Resíduos LTDA</a>
+  Logistics administrative assistant at <a href="https://www.linkedin.com/company/atrsresiduos/mycompany/">ATR Soluções em Resíduos LTDA</a> </br>
+  Methodical learner of secure and typed software development
   </em>
 </p>
 
@@ -19,94 +20,67 @@
 
 <main>
 
-## A snippet about me...
-
-```typescript
-const stallone_dev:developer = {
-    pronouns: "He" | "Him",
-    codeStack: ["JavaScript", "TypeScript"],
-
-    technologies: {
-        fullStack: {
-            web: ["React", "HTMX"]
-        },
-        frontEnd: {
-            styles: ["pico.css"]
-        },
-        backEnd: {
-            js_ts: ["deno", "node", "express"]
-        },
-        databases: ["Deno KV", "SQLite", "MySql", "MongoDB"],
-        devOps: ["GitHub Actions", "Docker", "Linux", "Git"]
-    },
-
-    experiences: {
-        admAssistant: "3 years",
-        admLogisticsAssistant: "2 years",
-        universityExtension: "1 year"
-    },
-
-    personalLearningProject: "Explore the world of edge computing"
-}
-```
-
-## Technologies and Tools
+## My learning artifacts
 
 <div align="center">
 
-<a href="https://github.com/stallone-dev" target="_self">
-  <img width="55%" align="right" alt="Stallone-dev's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stallone-dev&hide_progress=false&layout=donut" />
-</a>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg"></a></code><code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"></a></code><code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21~bgwhite.svg"></a></code><code><a href="https://dart.dev/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21~bgwhite.svg"></a></code><code><a href="https://www.python.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></a></code>
+<br/>
+<code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg"></a></code><code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></a></code><code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg"></a></code><code><a href="https://www.postman.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg"></a>
+<br/>
+<code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></a></code><code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></a></code><code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg"></a></code>
+<br/>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
+<br/>
 
-  <!--
-  Your languages and tools. Be careful with the alignment.
-  https://www.vectorlogo.zone
-  -->
-
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code><br />
-  <!--<code><a href="https://www.rust-lang.org/learn" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a>/
-</code>-->
-
-<code><a href="https://www.docker.com/get-started/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/book/en/v2" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<br />
-
-<code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<br />
-
-<code><a href="https://github.com/features/copilot" alt="GitHub Copilot hiperlink" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
-
-</div>
-
-<p align="center">
+<code>
   <a href="https://github.com/stallone-dev/certificates">
     <img alt="Static Badge" align="center" width="20%"src="https://img.shields.io/badge/certificates-100000?style=for-the-badge&logo=gitbook&logoColor=white">
   </a>
-</p>
+</code>
 
-## Currently learning:
-
-<div align="center" >
-  <a href="https://github.com/stallone-dev/docker-studies" target="_blank">
-    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=docker-studies" />
-  </a>
-  <a href="https://github.com/stallone-dev/html5-css3-studies" target="_blank">
-    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=html5-css3-studies" />
-  </a>
 </div>
+
+## My favorite Pins
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=285b551c5368ad15185f66aecc0a6917)](https://gist.github.com/stallone-dev/285b551c5368ad15185f66aecc0a6917)[![MTR-web-service-types](https://github-readme-stats.vercel.app/api/pin/?username=stallone-dev&repo=MTR-web-service-types)](https://github.com/stallone-dev/MTR-web-service-types)
+
+
+## My flow
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stallone-dev\&layout=compact)]()
+
+## ...and, a snippet about me...
+
+```javascript
+const stallone-dev = {
+    pronouns: "He" || "Him",
+    favoriteLangs: ["TypeScript", "Rust"],
+
+    techStack: {
+        engines: ["DenoJS", "NodeJS", "Docker"],
+        frontEnd: ["PicoCSS", "HTMX", "esbuild"],
+        backEnd: ["Hono", "Oak", "Express", "FastApi", "Axum"],
+        mobile: ["Dart", "Flutter"],
+        dbs: ["Deno KV", "SQLite", "MySQL", "MongoDB", "PostgreSQL"],
+        devOps: ["Shell script","GitHub Actions", "Linux", "Git"],
+        qa: ["Postman", "Insomnia", "Bruno", "Jest"],
+    },
+
+    experience: {
+        admAssistant: "3 years",
+        admLogisticsAssistant: "2 years",
+        universityExtension: "1 year"
+    }
+};
+```
 
 </main>
 
-<div align="center">
+<br/>
+<br/>
 
-<br/>
-<br/>
+<footer>
 
 <p align="center">
   <em>Visitor counter</em><br>
