@@ -45,7 +45,7 @@
 
 ## My flow
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stallone-dev\&layout=compact)]()
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stallone_dev\&layout=compact)]()
 
 ## ...and, a snippet about me...
 
