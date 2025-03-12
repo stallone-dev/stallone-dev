@@ -30,7 +30,7 @@
 <br/>
 <code><a href="https://www.mongodb.com/docs/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></a></code><code><a href="https://www.mysql.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></a></code><code><a href="https://www.sqlite.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg"></a></code>
 <br/>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
+<code><a href="https://editorconfig.org/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/editorconfig/editorconfig-ar21~bgwhite.svg"></a></code><code><a href="https://www.gnu.org/software/bash/" target="_blank"><img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></a></code>
 <br/>
 
   <a href="https://github.com/stallone-dev/certificates">
